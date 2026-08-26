@@ -23,11 +23,13 @@
 
 co-founder @ **[NeuralAI](https://neuralai.in)** · undergrad @ **IIT Madras**
 
-started out in biology, trying to work out how a lump of wet tissue remembers
-anything at all. then met language models and discovered they just... don't.
-every conversation, fresh amnesia. brilliant, and concussed.
+spent years prepping to become a doctor. learned, in some detail, how a lump of
+wet tissue manages to remember anything at all. then met language models and
+found out they don't remember anything — every conversation, fresh amnesia.
+brilliant, and concussed.
 
-so now i build memory for machines instead. same obsession, worse sleep schedule.
+so now i build memory for machines instead. still in college, so technically
+there's time to go back. (there isn't.)
 
 **building**
 
