@@ -1,5 +1,3 @@
-<img src="banner.jpg" alt="" width="100%" />
-
 ### hey, i'm roshan
 
 co-founder @ **[NeuralAI](https://neuralai.in)** · undergrad @ **IIT Madras**
