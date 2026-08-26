@@ -14,4 +14,4 @@ security engineer by trade. i build products, then break them before anyone else
 
 **stack** — python · typescript · react · next · postgres · supabase · burp
 
-**elsewhere** — [neuralai.in](https://neuralai.in) · [x](https://x.com/roshansingh_01) · [linkedin](https://www.linkedin.com/in/roshannsingh/) · [office@neuralai.in](mailto:office@neuralai.in)
+**elsewhere** — [neuralai.in](https://neuralai.in) · [x](https://x.com/roshansingh_01) · [linkedin](https://www.linkedin.com/in/roshannsingh/) · [roshan@board.neuralai.in](mailto:roshan@board.neuralai.in)
