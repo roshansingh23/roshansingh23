@@ -1,3 +1,14 @@
+```
+    A===T     G===C     T===A     C===G        . :        o---o---o
+   /     \   /     \   /     \   /     \      : . :      /|\ /|\ /|\
+  /       \ /       \ /       \ /       \    . : .      o-+-o-+-o-+-o
+  \       / \       / \       / \       /     : . :      \|/ \|/ \|/
+   \     /   \     /   \     /   \     /     . : .        o---o---o
+    T===A     C===G     A===T     G===C        : .
+
+        b i o l o g y   - - - - - - - - ->   m a c h i n e   m e m o r y
+```
+
 ### hey, i'm roshan
 
 co-founder @ **[NeuralAI](https://neuralai.in)** · undergrad @ **IIT Madras**
